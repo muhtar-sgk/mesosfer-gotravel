@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/all_tourism"
+            android:checked="false"
+            android:icon="@drawable/all_tourism"
+            android:title="@string/all_tourism"
+            />
+
+        <item
+            android:id="@+id/beach"
+            android:checked="false"
+            android:icon="@drawable/beach"
+            android:title="@string/beach" />
+
+        <item
+            android:id="@+id/culinary"
+            android:checked="false"
+            android:icon="@drawable/culinary"
+            android:title="@string/culinary" />
+
+        <item
+            android:id="@+id/island"
+            android:checked="false"
+            android:icon="@drawable/island"
+            android:title="@string/island" />
+
+        <item
+            android:id="@+id/zoo"
+            android:checked="false"
+            android:icon="@drawable/lion_2"
+            android:title="@string/zoo" />
+
+        <item
+            android:id="@+id/park"
+            android:checked="false"
+            android:icon="@drawable/park"
+            android:title="@string/park" />
+
+        <item
+            android:id="@+id/mountain"
+            android:checked="false"
+            android:icon="@drawable/mountain"
+            android:title="@string/mountain" />
+
+        <item
+            android:id="@+id/plan_trip"
+            android:checked="false"
+            android:icon="@drawable/planning"
+            android:title="Plan Trip" />
+
+        <item
+            android:id="@+id/about"
+            android:checked="false"
+            android:icon="@drawable/info"
+            android:title="@string/about" />
+
+        <item
+            android:id="@+id/logout"
+            android:checked="false"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+
+    </group>
+</menu>

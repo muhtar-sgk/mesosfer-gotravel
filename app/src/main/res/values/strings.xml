@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">GoTravel</string>
+    <string name="register">Register</string>
+    <string name="hint_is_married">Already Married</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_lastname">Last Name</string>
+    <string name="hint_date_of_birth">Date of Birth</string>
+    <string name="hint_height">Height</string>
+    <string name="hint_weight">Weight</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="user_list">User List</string>
+    <string name="welcome_to_mesosfer">Welcome To Mesosfer</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="hint_password_old">Old Password</string>
+    <string name="hint_password_new">New Password</string>
+    <string name="hint_password_confirm">Confirm Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="search_for_firstname">Search First Name</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="travel_name">Travel Name</string>
+    <string name="address">Address</string>
+    <string name="all_tourism">All Tourism</string>
+    <string name="island">Island</string>
+    <string name="culinary">Culinary</string>
+    <string name="beach">Beach</string>
+    <string name="zoo">Zoo</string>
+    <string name="park">Park</string>
+    <string name="mountain">Mountain</string>
+    <string name="about">About</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="subtitle">Enjoy Your Trip</string>
+    <string name="section_format">Page %1$d</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+    <string name="type_your_coment">Type Your Comment</string>
+    <string name="your_destination">Your Destination</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
